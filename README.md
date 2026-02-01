@@ -1,4 +1,4 @@
-# Mini Agente con Herramientas - Quanta Assistant
+# Mini Agente con Tools - Quanta Assistant
 
 ## Descripción
 
